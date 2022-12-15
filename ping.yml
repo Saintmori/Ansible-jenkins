@@ -1,3 +1,4 @@
+# a simple ping test server playbook
 ---
 - name: ping servers
   hosts: localhost
